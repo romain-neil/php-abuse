@@ -1,0 +1,15 @@
+{
+    "name": "romain-neil/abuse",
+    "description": "Script to send abuse emails about ip used by attackers",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Romain NEIL",
+            "email": "contact@romain-neil.fr"
+        }
+    ],
+    "require": {
+        "symfony/mailer": "^5.4",
+        "ext-json": "*"
+    }
+}
